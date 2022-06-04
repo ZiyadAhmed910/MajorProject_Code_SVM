@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ahmed"
+  given-names: "Ziyad"
+- family-names: "Reddy"
+  given-names: "Rashmith"
+title: "Cloud Based Irrigation System With Machine Learning and IoT"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-06-04
+url: "https://github.com/ZiyadAhmed910/MajorProject_Code_SVM"
